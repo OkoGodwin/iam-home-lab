@@ -1,0 +1,14 @@
+# secrets and keys
+.env
+*.env
+secrets*
+*.pfx
+*.pem
+*.key
+# real lab data
+users.csv
+*-real.csv
+# Windows and Word clutter
+~$*
+Thumbs.db
+desktop.ini
